@@ -1,0 +1,17 @@
+html,
+body {
+  font-family: sans-serif;
+  color: #555;
+  font-size: 18px;
+  margin: 0;
+}
+
+main {
+  margin: 3rem auto;
+  max-width: 90vw;
+  width: 50ch;
+}
+
+h1 {
+  color: #333;
+}
