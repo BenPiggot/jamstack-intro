@@ -11,7 +11,6 @@ const PrivateRoute = ({ component: Component, location, ...rest }) => {
     return null;
   }
 
-  console.log(Component)
   return <Component {...rest} />
 }
 
